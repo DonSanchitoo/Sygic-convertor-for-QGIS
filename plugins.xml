@@ -6,7 +6,7 @@
 <version>1.0.0</version>
 <qgis_minimum_version>3.22</qgis_minimum_version>
 <homepage>http://repo</homepage>
-<file_name>sygic_convertor-1.0.zip</file_name>
+<file_name>Mattew sygic convertor for QGIS</file_name>
 <icon>./sygic_convertor/icon.png</icon>
 <author_name>E-SI/Sanchez Matteo</author_name>
 <download_url>https://github.com/DonSanchitoo/Sygic-convertor-for-QGIS/releases/download/v1.1/sygic_convertor-1.0.zip</download_url>
@@ -20,6 +20,7 @@
 <tags>python, sygic, gps, shapefile</tags>
 </pyqgis_plugin>
 </plugins>
+
 
 
 
