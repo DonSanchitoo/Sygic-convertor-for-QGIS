@@ -19,10 +19,11 @@
     <deprecated>False</deprecated>
 
     <!-- 📦 Téléchargement du ZIP -->
-    <download_url>https://github.com/DonSanchitoo/Sygic-convertor-for-QGIS/archive/refs/tags/v1.0.zip</download_url>
+    <download_url>https://github.com/DonSanchitoo/Sygic-convertor-for-QGIS/releases/download/v1.1/sygic_convertor-1.0.zip</download_url>
     <file_name>MattewSygicConvertor-1.0.zip</file_name>
-    <size>1890</size> <!-- à remplacer par la taille réelle en octets -->
-    <checksum type="sha256">27BF32FC2C21B85A07753281A52EDA49435F679FDDA2D7D49944A567A5DD0CDF</checksum>
+    <size>957</size> <!-- à remplacer par la taille réelle en octets -->
+    <checksum type="sha256">0429CF5173997E5BA8550E72726B5971DE6A1B6794CC3B4B0D35E148A97E66F2</checksum>
     <upload_date>2025-10-15</upload_date>
   </plugin>
 </plugins>
+
