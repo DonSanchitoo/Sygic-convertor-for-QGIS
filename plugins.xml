@@ -1,5 +1,5 @@
 <plugins>
-<pyqgis_plugin name="Mattew sygic convertor for QGIS" version="1.0.0">
+<pyqgis_plugin name="sygic_convertor-1.0.zip" version="1.0.0">
 <description>
 <![CDATA[ Donne un itinéraire optimisé avec un jeu de points pour Sygic Navigation (guidage GPS) ]]>
 </description>
@@ -20,6 +20,7 @@
 <tags>python, sygic, gps, shapefile</tags>
 </pyqgis_plugin>
 </plugins>
+
 
 
 
