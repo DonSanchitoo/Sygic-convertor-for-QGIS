@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
   <plugin>
-    <name>Mattew Sygic Convertor for QGIS</name>
+    <name>sygic_convertor-1.0.zip</name>
     <version>1.0</version>
     <qgis_minimum_version>3.0</qgis_minimum_version>
     <description>Donne un itinéraire optimisé avec un jeu de points pour Sygic Navigation (guidage GPS)</description>
@@ -21,9 +21,10 @@
     <!-- 📦 Téléchargement du ZIP -->
     <download_url>https://github.com/DonSanchitoo/Sygic-convertor-for-QGIS/releases/download/v1.1/sygic_convertor-1.0.zip</download_url>
     <file_name>MattewSygicConvertor-1.0.zip</file_name>
-    <size>957</size> <!-- à remplacer par la taille réelle en octets -->
+    <size>979128</size> <!-- à remplacer par la taille réelle en octets -->
     <checksum type="sha256">0429CF5173997E5BA8550E72726B5971DE6A1B6794CC3B4B0D35E148A97E66F2</checksum>
     <upload_date>2025-10-15</upload_date>
   </plugin>
 </plugins>
+
 
