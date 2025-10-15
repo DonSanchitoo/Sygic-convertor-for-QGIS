@@ -16,10 +16,11 @@
 <experimental>False</experimental>
 <deprecated>False</deprecated>
 <tracker>https://github.com/DonSanchitoo/Sygic-convertor-for-QGIS/releases/download/v1.1/sygic_convertor-1.0.zip</tracker>
-<repository>https://github.com/DonSanchitoo/Sygic-convertor-for-QGIS</repository>
+<repository>https://github.com/Don/Sygic-convertor-for-QGIS</repository>
 <tags>python, sygic, gps, shapefile</tags>
 </pyqgis_plugin>
 </plugins>
+
 
 
 
