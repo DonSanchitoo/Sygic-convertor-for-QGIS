@@ -9,7 +9,7 @@
 <file_name>sygic_convertor.zip</file_name>
 <icon>./sygic_convertor/icon.png</icon>
 <author_name>E-SI/Sanchez Matteo</author_name>
-<download_url>https://github.com/DonSanchitoo/Sygic-convertor-for-QGIS/releases/download/v1.1/sygic_convertor-1.0.zip</download_url>
+<download_url>https://github.com/DonSanchitoo/Sygic-convertor-for-QGIS/releases/download/v1.1/sygic_convertor.zip</download_url>
 <uploaded_by>Sanchez Matteo</uploaded_by>
 <create_date>2025-10-14</create_date>
 <update_date>2025-10-15</update_date>
@@ -20,6 +20,7 @@
 <tags>python, sygic, gps, shapefile</tags>
 </pyqgis_plugin>
 </plugins>
+
 
 
 
