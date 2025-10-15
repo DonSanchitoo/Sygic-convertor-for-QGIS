@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+  <plugin>
+    <name>Mattew Sygic Convertor for QGIS</name>
+    <version>1.0</version>
+    <qgis_minimum_version>3.0</qgis_minimum_version>
+    <description>Donne un itinéraire optimisé avec un jeu de points pour Sygic Navigation (guidage GPS)</description>
+    <about>Plugin qui permet de générer un guidage GPS sur "Sygic navigation" basé sur un shapefile ponctuel de points de passages.</about>
+
+    <author>E-SI/Sanchez Matteo</author>
+    <email>matteo.sanchez@e-si.fr</email>
+
+    <homepage>http://homepage</homepage>
+    <tracker>http://bugs</tracker>
+    <repository>http://repo</repository>
+    <category>Plugins</category>
+    <tags>python</tags>
+    <experimental>False</experimental>
+    <deprecated>False</deprecated>
+
+    <!-- 📦 Téléchargement du ZIP -->
+    <download_url>https://github.com/DonSanchitoo/Sygic-convertor-for-QGIS/archive/refs/tags/v1.0.zip</download_url>
+    <file_name>MattewSygicConvertor-1.0.zip</file_name>
+    <size>1890</size> <!-- à remplacer par la taille réelle en octets -->
+    <checksum type="sha256">27BF32FC2C21B85A07753281A52EDA49435F679FDDA2D7D49944A567A5DD0CDF</checksum>
+    <upload_date>2025-10-15</upload_date>
+  </plugin>
+</plugins>
